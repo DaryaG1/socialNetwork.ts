@@ -1,0 +1,22 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+
+
+.items {
+    padding-left: 15px;
+    padding-top: 17px;
+}
+
+
+
+.messages {
+    padding-top: 15px;
+}
+
+.textAreaMessages{
+    text-align: center;
+    padding-top: 60px;
+}
